@@ -13,16 +13,24 @@ Each playbook should cover:
 - Communication Strategy: How and when to communicate with internal teams and external stakeholders (e.g., media, regulators).
 - Metrics: Criteria for measuring the success of the response (e.g., time to resolve, systems affected).
 
+  https://github.com/hanifasalihu/Cybersecurity_Bootcamp_Project/blob/main/PROJECT%201%20Presentation%20-%20IR%20Playbooks.pptx
+  
 ## TASK 2: Building a Secure Small Network
 ### Scope: 
 Students will simulate a small office or personal network setup. They'll design how devices connect, apply basic security rules (like firewalls and segmentation), and test the setup using tools such as Nmap (for scanning) and Wireshark (for traffic analysis). The emphasis is on practical understanding and being able to explain what was done and why.
+   
+  https://github.com/hanifasalihu/Cybersecurity_Bootcamp_Project/blob/main/PROJECT%202%20Presentation%20%5BBuilding%20a%20Secure%20Small%20Network%5D.pptx
 
 ## TASK 3: Applying Cryptography in Real-World Scenarios
 ### Scope:
 Students will use cryptographic tools (like OpenSSL, GPG, or built-in OS commands) to encrypt files, verify integrity, and simulate secure messaging or storage. The project emphasizes the real-world applications of cryptography, focusing on data confidentiality, integrity, and authenticity.
-
+  
+  https://github.com/hanifasalihu/Cybersecurity_Bootcamp_Project/blob/main/PROJECT%203%20Presentation%20%5BApplying%20Cryptography%5D.pptx
+  
 ## TASK 4: Demonstrating FTP vs. SFTP Security
 ### Scope:
 Students will set up basic FTP and SFTP sessions to transfer files between a client and server (can be virtual machines or local tools). They will use a packet capture tool (like Wireshark) to analyze the data transmitted during these transfers, showing the difference in security.
+
+  https://github.com/hanifasalihu/Cybersecurity_Bootcamp_Project/blob/main/PROJECT%204%20%7BFTP%20vs%20SFTP%7D.pptx
 
 
